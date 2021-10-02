@@ -1,5 +1,4 @@
 // Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
-// Contributed by Vaibhav Sharma
 // 2 approaches
 #include<bits/stdc++.h>
 using namespace std;
