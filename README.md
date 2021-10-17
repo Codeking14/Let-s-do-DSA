@@ -102,8 +102,9 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request.
 
+#Our Valuable Contributors
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Codeking14/Let-s-do-DSA"/>
+<a href="https://github.com/Codeking14/Let-s-do-DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Codeking14/Let-s-do-DSA" />
 </a>
 
