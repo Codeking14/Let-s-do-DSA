@@ -15,12 +15,9 @@
 </div>
 
 ### Repository Mantainer 
-<!-- Paste wherever you want your card to render -->
-<div username='mostlypanda' repos='' class='github-card' id='card'></div>
 
-<!-- Paste this script tag in head tag or before body close tag -->
-<script src='https://saurabhdaware.github.io/github-profile-card/card.js'></script>
-
+[Sarthak Mittal](http://github/mostlypanda)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostlypanda&theme=monokai)
 
 # Contribution Guide
 ##### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
