@@ -14,9 +14,8 @@
 [![Hacktoberfest-21](https://img.shields.io/static/v1.svg?label=Hacktoberfest-21&message=accepted&color=red)](https://github.com/Codeking14/Let-s-do-DSA)
 </div>
 
-### Repository Mantainer 
+### Repository Mantainer : [Sarthak Mittal](http://github/mostlypanda)
 
-[Sarthak Mittal](http://github/mostlypanda)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostlypanda&theme=monokai)
 
 # Contribution Guide
