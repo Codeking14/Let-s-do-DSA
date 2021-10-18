@@ -16,6 +16,9 @@
 
 ### Repository Mantainer : [Sarthak Mittal](http://github.com/mostlypanda)
 
+<script type="module" src="https://unpkg.com/@mostlypanda/github-card@latest?module"></script>
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostlypanda&theme=monokai)
 
 # Contribution Guide
