@@ -28,8 +28,7 @@ void floodFillUtil(int screen[][N], int x, int y, int prevC, int newC)
 	floodFillUtil(screen, x, y-1, prevC, newC);
 }
 
-// It mainly finds the previous color on (x, y) and
-// calls floodFillUtil()
+
 void floodFill(int screen[][N], int x, int y, int newC)
 {
 	int prevC = screen[x][y];
